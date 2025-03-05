@@ -5,13 +5,13 @@
 ## Project Contributors
 
 <aside>
-*Team Lead*
+<b>Team Lead</b>
 
 - Utkarsh Bisth
 </aside>
 
 <aside>
-*Core Developers*
+<b>Core Developers</b>
 
 - Nitish Chauhan
 - Sumit Miyan
