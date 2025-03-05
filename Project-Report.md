@@ -24,7 +24,7 @@
 <aside>
 💡
 
-![GEHU.png](GEHU.png.png)
+![GEHU.png](GEHU.png)
 
 **Graphic Era Hill University ( Dehradun )**
 
